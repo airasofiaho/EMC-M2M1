@@ -2,7 +2,7 @@
 using namespace std;
 //Simple Cashier Program
 int main(){
-	int q1, q2, q3, q4;
+	double q1, q2, q3, q4;
 	double p1 = 40.00, p2 = 20.00, p3 = 100.00, p4 = 90.00, total, payment, change;
 	
 	cout << "\t-----ASH School Supplies-----" << endl << endl;
