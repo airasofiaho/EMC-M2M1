@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 //Largest Number Comparison
+//Programmed by: AIRA SOFIA A. HO
 int main(){
 	int num1, num2, num3;
 	
