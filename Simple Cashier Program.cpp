@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 //Simple Cashier Program
+//Programmed by: AIRA SOFIA A. HO
 int main(){
 	double q1, q2, q3, q4;
 	double p1 = 40.00, p2 = 20.00, p3 = 100.00, p4 = 90.00, total, payment, change;
